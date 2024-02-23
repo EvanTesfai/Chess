@@ -1,0 +1,63 @@
+html {
+  background-image: url(images/boardBackground.jpg);
+  margin: auto;
+  background-size: 250px;
+}
+
+h1 {
+  font-family: "Kavivanar", cursive;
+  font-weight: 400;
+  font-style: normal;
+  background-color: rgb(60, 60, 60);
+  color: white;
+  border-radius: 25px;
+  letter-spacing: 4px;
+}
+
+body {
+  width: 600px;
+  margin: auto;
+  background-color: rgba(255, 255, 255, 0.9);
+  padding: 10px 150px;
+}
+
+img {
+  width: 400px;
+  height: 300px;
+}
+
+h2 {
+  font-family: "Kavivanar", cursive;
+  font-weight: 600;
+  font-style: normal;
+  text-align: center;
+  font-variant: small-caps;
+}
+
+#pawn {
+  color: orange;
+}
+
+#knight {
+  color: blue;
+}
+
+#queen {
+  color: red;
+}
+
+.sub {
+  text-align: center;
+  font-size: 12px;
+}
+p {
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  letter-spacing: 0.5px;
+}
+
+.pictures {
+  text-align: center;
+}
